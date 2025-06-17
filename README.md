@@ -2,10 +2,8 @@
 - Verificar nome de funções assíncronas do model e do controller, ou seja, se correspondem aos colocados nos arquivos userController.js e userModel.js. No model, no controller e especialmente no userController.test.js algumas funções assíncronas estavam sendo chamadas com o nome errado;<br>
 
 - Verificar o nome dos arquivos e ver se eles estão sendo importados com o nome certo (ex.: não tem como importar um arquivo userService.js se ele não existe);
-<br>
 
 - Verificar se a sintaxe SQL está correta no model (SELECT * FROM, $1 etc);
-<br>
 
 - Verificar nomes de variáveis (se estão corretas);
 
