@@ -14,3 +14,7 @@
 - controllers/userController.js;
 - models/userModel.js;
 - tests/userController.test.js.
+<br> <br>
+
+# SAÍDA ESPERADA APÓS RODAR O COMANDO NPM TEST NO TERMINAL
+<img src = "./assets/saidaTeste.png">
