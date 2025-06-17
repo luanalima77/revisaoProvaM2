@@ -8,3 +8,9 @@
 - Verificar nomes de variáveis (se estão corretas);
 
 - Verificar nome das rotas.
+<br> <br>
+
+# PRINCIPAIS ARQUIVOS MODIFICADOS
+- controllers/userController.js;
+- models/userModel.js;
+- tests/userController.test.js.
