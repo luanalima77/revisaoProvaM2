@@ -7,7 +7,17 @@
 
 - Verificar nomes de variáveis (se estão corretas);
 
-- Verificar nome das rotas.
+- Verificar nome das rotas (ex.: a rota solicitada não foi definida ou não existe; rotas que esperam parâmetros (ex: /user/:id)e não recebem, ou recebem mal formatados. Exemplo: /user/abc onde id deveria ser numérico.);
+
+- Verificar o seguinte código no package.json: 
+```javascript
+{
+    "scripts":{
+        "test": "jest"
+    }
+}
+```
+
 <br> <br>
 
 # PRINCIPAIS ARQUIVOS MODIFICADOS
